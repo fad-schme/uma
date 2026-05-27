@@ -1,0 +1,14 @@
+# All files require review by the maintainer
+* @fad-schme
+
+# Security and runtime critical paths — explicit
+uma/retrieve/             @fad-schme
+uma/memory/               @fad-schme
+uma/common/               @fad-schme
+uma/runtime/              @fad-schme
+uma/common/injection_patterns.yaml  @fad-schme
+signatures/               @fad-schme
+.github/                  @fad-schme
+CLA.md                    @fad-schme
+NOTICE                    @fad-schme
+LICENSE                   @fad-schme
