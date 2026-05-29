@@ -1,4 +1,4 @@
-# UMA
+# UMA don't cry
 
 **Universal Memory Architecture** — long-lived, evidence-backed memory for AI agents, with security built into every write and every read.
 
